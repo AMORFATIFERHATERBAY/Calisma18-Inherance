@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/bin/Debug/netcoreapp3.1/Calisma18-Inherance.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/bin/Debug/netcoreapp3.1/Calisma18-Inherance.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/bin/Debug/netcoreapp3.1/Calisma18-Inherance.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/bin/Debug/netcoreapp3.1/Calisma18-Inherance.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/bin/Debug/netcoreapp3.1/Calisma18-Inherance.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma18-Inherance/obj/Debug/netcoreapp3.1/Calisma18-Inherance.genruntimeconfig.cache
